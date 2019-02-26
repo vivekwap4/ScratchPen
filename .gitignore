@@ -1,0 +1,8 @@
+/node_modules/
+/bower_components/
+.idea/
+/html/sample.html
+/functions/
+firebase-debug.log
+index.html___jb_old___
+server.js
